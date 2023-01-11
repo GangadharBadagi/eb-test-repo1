@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3CF3-D9FC
+
+ Directory of C:\Gangadhar\EB\git\MyGitProject
+
+11-01-2023  17:27    <DIR>          .
+11-01-2023  17:27    <DIR>          ..
+11-01-2023  17:27                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  867,539,361,792 bytes free
